@@ -9,4 +9,5 @@
 
 图形组是 [TDS](https://think-different-studio.github.io/tds-official-web/) 程序组下面建立的新组别，和客户端方向并行。
 
+官方网站：https://tds-graphics.github.io/TDS-Graphics-Website/
 招新文档：https://thinkdifferent-club.feishu.cn/wiki/UTOdwugsNiVXtckjt5CcmK8pn7b
